@@ -4,11 +4,11 @@
 
 **Medium Article Link-**
 
-
+https://jumananadir.medium.com/learn-to-learn-a-survey-on-meta-learning-for-few-shot-natural-language-processing-e8e7de6fbbf6
 
 **Slideshare Link**
 
-
+https://www.slideshare.net/JumanaNadir/short-story-slides
 
 
 **Link to my Video**
