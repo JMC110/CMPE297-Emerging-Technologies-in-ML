@@ -8,7 +8,7 @@ https://jumananadir.medium.com/learn-to-learn-a-survey-on-meta-learning-for-few-
 
 **Slideshare Link**
 
-https://www.slideshare.net/JumanaNadir/short-story-slides
+https://www.slideshare.net/JumanaNadir/short-story-slides-240062127
 
 
 **Link to my Video**
